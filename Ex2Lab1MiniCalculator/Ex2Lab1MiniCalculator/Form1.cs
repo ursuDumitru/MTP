@@ -13,7 +13,7 @@ namespace Ex2Lab1MiniCalculator
 {
     public partial class Form1 : Form
     {
-        int check = 0, check2 = 0,  caz = -1, check_one_op = 0; //caz {0 -> + ; 1 -> - ; 2 -> * ; 3 -> /
+        int check = 0, check2 = 0,  caz = -1, check_one_op = 0; //caz {0 -> + ; 1 -> - ; 2 -> * ; 3 -> / 
         double nr1, nr2;
         public Form1()
         {

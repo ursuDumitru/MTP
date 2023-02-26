@@ -1,0 +1,11 @@
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\bin\Debug\Ex2Lab1MiniCalculator.exe.config
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\bin\Debug\Ex2Lab1MiniCalculator.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\bin\Debug\Ex2Lab1MiniCalculator.pdb
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\obj\Debug\Ex2Lab1MiniCalculator.csproj.AssemblyReference.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\obj\Debug\Ex2Lab1MiniCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\obj\Debug\Ex2Lab1MiniCalculator.Form1.resources
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\obj\Debug\Ex2Lab1MiniCalculator.Properties.Resources.resources
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\obj\Debug\Ex2Lab1MiniCalculator.csproj.GenerateResource.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\obj\Debug\Ex2Lab1MiniCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\obj\Debug\Ex2Lab1MiniCalculator.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Ex2Lab1MiniCalculator\Ex2Lab1MiniCalculator\obj\Debug\Ex2Lab1MiniCalculator.pdb

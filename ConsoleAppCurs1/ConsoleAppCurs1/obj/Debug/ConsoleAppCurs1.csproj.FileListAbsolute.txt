@@ -1,0 +1,8 @@
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\ConsoleAppCurs1\ConsoleAppCurs1\bin\Debug\ConsoleAppCurs1.exe.config
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\ConsoleAppCurs1\ConsoleAppCurs1\bin\Debug\ConsoleAppCurs1.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\ConsoleAppCurs1\ConsoleAppCurs1\bin\Debug\ConsoleAppCurs1.pdb
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\ConsoleAppCurs1\ConsoleAppCurs1\obj\Debug\ConsoleAppCurs1.csproj.AssemblyReference.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\ConsoleAppCurs1\ConsoleAppCurs1\obj\Debug\ConsoleAppCurs1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\ConsoleAppCurs1\ConsoleAppCurs1\obj\Debug\ConsoleAppCurs1.csproj.CoreCompileInputs.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\ConsoleAppCurs1\ConsoleAppCurs1\obj\Debug\ConsoleAppCurs1.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\ConsoleAppCurs1\ConsoleAppCurs1\obj\Debug\ConsoleAppCurs1.pdb

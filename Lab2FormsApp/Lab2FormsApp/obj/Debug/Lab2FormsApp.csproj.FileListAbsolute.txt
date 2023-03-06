@@ -1,0 +1,11 @@
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\bin\Debug\Lab2FormsApp.exe.config
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\bin\Debug\Lab2FormsApp.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\bin\Debug\Lab2FormsApp.pdb
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\obj\Debug\Lab2FormsApp.csproj.AssemblyReference.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\obj\Debug\Lab2FormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\obj\Debug\Lab2FormsApp.Form1.resources
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\obj\Debug\Lab2FormsApp.Properties.Resources.resources
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\obj\Debug\Lab2FormsApp.csproj.GenerateResource.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\obj\Debug\Lab2FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\obj\Debug\Lab2FormsApp.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2FormsApp\Lab2FormsApp\obj\Debug\Lab2FormsApp.pdb

@@ -1,0 +1,12 @@
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\bin\Debug\Lab2Aplicatie.exe.config
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\bin\Debug\Lab2Aplicatie.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\bin\Debug\Lab2Aplicatie.pdb
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.csproj.AssemblyReference.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.Form1.resources
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.Properties.Resources.resources
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.csproj.GenerateResource.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.csproj.CoreCompileInputs.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.pdb
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Lab2Aplicatie\Lab2Aplicatie\obj\Debug\Lab2Aplicatie.Form2.resources

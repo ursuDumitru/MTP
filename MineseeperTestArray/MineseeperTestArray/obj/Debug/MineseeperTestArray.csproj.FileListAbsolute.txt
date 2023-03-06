@@ -1,0 +1,8 @@
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\MineseeperTestArray\MineseeperTestArray\bin\Debug\MineseeperTestArray.exe.config
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\MineseeperTestArray\MineseeperTestArray\bin\Debug\MineseeperTestArray.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\MineseeperTestArray\MineseeperTestArray\bin\Debug\MineseeperTestArray.pdb
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\MineseeperTestArray\MineseeperTestArray\obj\Debug\MineseeperTestArray.csproj.AssemblyReference.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\MineseeperTestArray\MineseeperTestArray\obj\Debug\MineseeperTestArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\MineseeperTestArray\MineseeperTestArray\obj\Debug\MineseeperTestArray.csproj.CoreCompileInputs.cache
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\MineseeperTestArray\MineseeperTestArray\obj\Debug\MineseeperTestArray.exe
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\MineseeperTestArray\MineseeperTestArray\obj\Debug\MineseeperTestArray.pdb

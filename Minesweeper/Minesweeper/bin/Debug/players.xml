@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<players>
+  <player did_won="False" size="10">
+    <name>dym</name>
+    <time>00:01</time>
+  </player>
+  <player did_won="False" size="10">
+    <name>dym</name>
+    <time>00:00</time>
+  </player>
+  <player did_won="True" size="8">
+    <name>Dumitru</name>
+    <time>00:42</time>
+  </player>
+</players>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{107B1A1E-7743-41C9-AA75-9DC1F27057A9}</ProjectGuid>
+    <ProjectGuid>{2F558084-DC90-4FAC-AE55-18E0675F6AAB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Minesweeper</RootNamespace>
-    <AssemblyName>Minesweeper</AssemblyName>
+    <RootNamespace>Lab3</RootNamespace>
+    <AssemblyName>Lab3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,37 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModdedButton.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="CollorPalete.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GameAlg.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Scoreboard.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Scoreboard.Designer.cs">
-      <DependentUpon>Scoreboard.cs</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -85,11 +62,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Scoreboard.resx">
-      <DependentUpon>Scoreboard.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -104,29 +77,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\bomb.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bomb50AspectRation.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bombA.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bombCropped.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bombCropped50.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\pngwing.com.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\clock.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="bin\Debug\redFlagCropped28.png" />
-    <Content Include="bin\Debug\players.xml" />
+    <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

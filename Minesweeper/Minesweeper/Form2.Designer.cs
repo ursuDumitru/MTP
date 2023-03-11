@@ -29,19 +29,19 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label_remaining_bombs = new System.Windows.Forms.Label();
-            this.label_player = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label_time = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.label_player = new System.Windows.Forms.Label();
+            this.label_remaining_bombs = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.but_reset = new System.Windows.Forms.Button();
             this.but_close = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,41 +58,14 @@
             this.panel1.Size = new System.Drawing.Size(614, 82);
             this.panel1.TabIndex = 0;
             // 
-            // panel2
+            // label_time
             // 
-            this.panel2.Location = new System.Drawing.Point(0, 71);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(614, 11);
-            this.panel2.TabIndex = 0;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::Minesweeper.Properties.Resources.clock;
-            this.pictureBox1.Location = new System.Drawing.Point(422, 7);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(66, 59);
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
-            // 
-            // label_remaining_bombs
-            // 
-            this.label_remaining_bombs.AutoSize = true;
-            this.label_remaining_bombs.Font = new System.Drawing.Font("Snap ITC", 16F, System.Drawing.FontStyle.Bold);
-            this.label_remaining_bombs.Location = new System.Drawing.Point(75, 23);
-            this.label_remaining_bombs.Name = "label_remaining_bombs";
-            this.label_remaining_bombs.Size = new System.Drawing.Size(52, 29);
-            this.label_remaining_bombs.TabIndex = 3;
-            this.label_remaining_bombs.Text = "50";
-            // 
-            // label_player
-            // 
-            this.label_player.AutoSize = true;
-            this.label_player.Font = new System.Drawing.Font("Snap ITC", 16F, System.Drawing.FontStyle.Bold);
-            this.label_player.Location = new System.Drawing.Point(258, 23);
-            this.label_player.Name = "label_player";
-            this.label_player.Size = new System.Drawing.Size(102, 29);
-            this.label_player.TabIndex = 4;
-            this.label_player.Text = "Player";
+            this.label_time.AutoSize = true;
+            this.label_time.Font = new System.Drawing.Font("Snap ITC", 16F, System.Drawing.FontStyle.Bold);
+            this.label_time.Location = new System.Drawing.Point(494, 23);
+            this.label_time.Name = "label_time";
+            this.label_time.Size = new System.Drawing.Size(0, 29);
+            this.label_time.TabIndex = 6;
             // 
             // pictureBox2
             // 
@@ -104,15 +77,41 @@
             this.pictureBox2.TabIndex = 5;
             this.pictureBox2.TabStop = false;
             // 
-            // label_time
+            // label_player
             // 
-            this.label_time.AutoSize = true;
-            this.label_time.Font = new System.Drawing.Font("Snap ITC", 16F, System.Drawing.FontStyle.Bold);
-            this.label_time.Location = new System.Drawing.Point(494, 23);
-            this.label_time.Name = "label_time";
-            this.label_time.Size = new System.Drawing.Size(99, 29);
-            this.label_time.TabIndex = 6;
-            this.label_time.Text = "20:20";
+            this.label_player.AutoSize = true;
+            this.label_player.Font = new System.Drawing.Font("Snap ITC", 16F, System.Drawing.FontStyle.Bold);
+            this.label_player.Location = new System.Drawing.Point(258, 23);
+            this.label_player.Name = "label_player";
+            this.label_player.Size = new System.Drawing.Size(102, 29);
+            this.label_player.TabIndex = 4;
+            this.label_player.Text = "Player";
+            // 
+            // label_remaining_bombs
+            // 
+            this.label_remaining_bombs.AutoSize = true;
+            this.label_remaining_bombs.Font = new System.Drawing.Font("Snap ITC", 16F, System.Drawing.FontStyle.Bold);
+            this.label_remaining_bombs.Location = new System.Drawing.Point(75, 23);
+            this.label_remaining_bombs.Name = "label_remaining_bombs";
+            this.label_remaining_bombs.Size = new System.Drawing.Size(52, 29);
+            this.label_remaining_bombs.TabIndex = 3;
+            this.label_remaining_bombs.Text = "50";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Minesweeper.Properties.Resources.clock;
+            this.pictureBox1.Location = new System.Drawing.Point(422, 7);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(66, 59);
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
+            // 
+            // panel2
+            // 
+            this.panel2.Location = new System.Drawing.Point(0, 71);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(614, 11);
+            this.panel2.TabIndex = 0;
             // 
             // but_reset
             // 
@@ -124,6 +123,7 @@
             this.but_reset.TabIndex = 4;
             this.but_reset.Text = "Reset";
             this.but_reset.UseVisualStyleBackColor = true;
+            this.but_reset.Click += new System.EventHandler(this.but_reset_Click);
             // 
             // but_close
             // 
@@ -135,6 +135,7 @@
             this.but_close.TabIndex = 5;
             this.but_close.Text = "Close";
             this.but_close.UseVisualStyleBackColor = true;
+            this.but_close.Click += new System.EventHandler(this.but_close_Click);
             // 
             // panel3
             // 
@@ -161,8 +162,8 @@
             this.Name = "Form2";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel3.ResumeLayout(false);
             this.ResumeLayout(false);
 

@@ -38,7 +38,7 @@ namespace Minesweeper
                 int i = rand.Next(0, GameSize);
                 int j = rand.Next(0, GameSize);
 
-                if (GameArray[i][j] == 9 && !(i == fX && j == fY)) //daca deja e bomba sau e primul apasat
+                if (GameArray[i][j] == 9 || (i == fX && j == fY)) //daca deja e bomba sau e primul apasat
                     continue;
 
                 GameArray[i][j] = 9; //9 will mean bomb bcouse there can be a maximum of 8 bombs around a square

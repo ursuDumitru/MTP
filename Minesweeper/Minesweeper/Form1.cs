@@ -37,6 +37,10 @@ namespace Minesweeper
             but_start.FlatStyle = FlatStyle.Flat;
             but_start.FlatAppearance.BorderSize = 0;
             but_start.BackColor = Col.c1;
+            but_scoreboard.FlatStyle = FlatStyle.Flat;
+            but_scoreboard.FlatAppearance.BorderSize = 0;
+            but_scoreboard.BackColor = Col.c1;
+
 
             //FlowLayoutPanel gameFlowLayout = new FlowLayoutPanel();
         }
@@ -50,12 +54,20 @@ namespace Minesweeper
         {
             if (comboBox_Size.Text == "")
                 MessageBox.Show("Mai intai selecteaza o dimensiune!");
+            else if (text_player.Text == "" || text_player.Text.Contains(" "))
+                MessageBox.Show("Introdu un nume si sa nu contina spatii!");
             else
             {
-                Form2 form2 = new Form2(int.Parse(comboBox_Size.Text));
+                Form2 form2 = new Form2(int.Parse(comboBox_Size.Text), text_player.Text);
                 form2.Show();
                 //new form
             }
+        }
+
+        private void button_scoreboard_Click(object sender, EventArgs e)
+        {
+            Scoreboard scor = new Scoreboard();
+            scor.Show();
         }
     }
 }

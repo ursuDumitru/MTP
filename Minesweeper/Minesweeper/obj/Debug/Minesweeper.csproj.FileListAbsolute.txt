@@ -10,3 +10,4 @@ C:\Users\ursu\Desktop\Univer\Sem2\MTP\Minesweeper\Minesweeper\obj\Debug\Mineswee
 C:\Users\ursu\Desktop\Univer\Sem2\MTP\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
 C:\Users\ursu\Desktop\Univer\Sem2\MTP\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
 C:\Users\ursu\Desktop\Univer\Sem2\MTP\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form2.resources
+C:\Users\ursu\Desktop\Univer\Sem2\MTP\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Scoreboard.resources
